@@ -13,7 +13,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/iantc104/)!
 
 ### ROS Environments
 
-- #### [HOMESTRI-UR5e](https://github.com/tammerb/HOMESTRI-UR5e-Robotiq2f85/tree/minimal): ROS Workspace for UR5e Robots in HRVIP Lab and HOMESTRI
+- #### [HOMESTRI-UR](https://github.com/tammerb/HOMESTRI-UR5e-Robotiq2f85/tree/minimal): ROS Workspace for UR5e Robots in HRVIP Lab and HOMESTRI
   <img src="images/homestri-ur-a-bot.gif" alt="a_bot GIF" width="49%">
   <img src="images/homestri-ur-b-bot.gif" alt="b_bot GIF" width="49%">
 
@@ -25,6 +25,10 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/iantc104/)!
   <img src="images/shr.gif" alt="SHR GIF" width="400">
 
 ### Simulation
+
+- #### [Manipulator-Mujoco](https://github.com/ian-chuang/Manipulator-Mujoco): Template for controlling any robot arm in Mujoco with operational space control
+  <img src="images/manip-mujoco-aubo_i5.gif" alt="a_bot GIF" width="49%">
+  <img src="images/manip-mujoco-ur5e.gif" alt="b_bot GIF" width="49%">
 
 - #### [homestri-ur5e-rl](https://github.com/ian-chuang/homestri-ur5e-rl): Mujoco Environment for flexible manipulation in HRVIP
   <img src="images/ur5e-rl-mujoco.gif" alt="UR5e Mujoco GIF" width="400">
