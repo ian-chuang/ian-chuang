@@ -11,6 +11,9 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/iantc104/)!
 
 ## Showcase
 
+- #### [AV-ALOHA](https://soltanilara.github.io/av-aloha/): Exploring Active Vision in Bimanual Manipulation
+  <img src="images/av-aloha.gif" alt="AV-ALOHA GIF" width="400">
+
 ### ROS Environments
 
 - #### [HOMESTRI-UR](https://github.com/tammerb/HOMESTRI-UR5e-Robotiq2f85/tree/minimal): ROS Workspace for UR5e Robots in HRVIP Lab and HOMESTRI
